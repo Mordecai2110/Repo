@@ -18,10 +18,7 @@ const AboutSection = () => {
           <div className="md:w-3/5">
             <h2 className="section-title text-left">Sobre mí</h2>
             <p className="text-lg mb-6">
-              Soy Trinidad Julian, diseñador web con más de 7 años de experiencia creando 
-              experiencias digitales memorables. Especializado en diseñar sitios web 
-              visualmente impactantes y funcionales que conectan con los usuarios y cumplen 
-              objetivos de negocio.
+              Soy Trinidad Julian,
             </p>
             <p className="text-lg mb-6">
               Mi enfoque se centra en combinar estética con usabilidad. Cada proyecto que 
